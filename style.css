@@ -1,0 +1,12 @@
+
+body { display: block }
+
+
+.Random {
+	transition: 2s;
+}
+
+.Random:hover {
+	size: 10px;
+	transform: scale(1.1); 
+}
